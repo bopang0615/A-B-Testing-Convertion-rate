@@ -1,4 +1,4 @@
-# A/B-Testing-Convertion-rate
+# A/B-Testing-conversion-rate
 This work book gives an interesting comparison of an A/B Testing on customer conversion rate.
 
 # Motivaion
